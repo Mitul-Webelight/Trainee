@@ -1,4 +1,4 @@
-// let city = 'hmedabad'
+// let city = 'Ahmedabad'
 // let state = 'Gujarat'
 // let location = city + ', ' + state
 // console.log(location)
@@ -30,7 +30,7 @@
 //   if (2 > 0) {
 //     console.log(name);
 //     console.log(age);
-//     let location = "Philadelphia";
+//     let location = "Ahmedabad";
 //   }
 // };
 // getName();
