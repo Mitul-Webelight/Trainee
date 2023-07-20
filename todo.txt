@@ -1,0 +1,5 @@
+Scheduling: setTimeout, setInterval and clearTimeout, clearInterval
+Recursion and stack
+Rest parameters
+Arrow fuctions
+class, class inheritance
