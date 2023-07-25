@@ -136,4 +136,16 @@
 // };
 // f();
 
-
+// const promise = new Promise((resolve, reject) => {
+//   setTimeout(() => {
+//     resolve("This fuction is true!");
+//   }, 0);
+//   reject("This function is wrong!");
+// });
+// Promise.all()
+//   .then((data) => {
+//     console.log(data);
+//   })
+//   .catch((err) => {
+//     console.log(err);
+//   });

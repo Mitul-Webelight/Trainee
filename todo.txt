@@ -1,6 +1,0 @@
-promise
-promise chaining
-promise.all, promise.race, promise.allsetteld
-error handling(.then(), .catch())
-try...catch
-async/await
