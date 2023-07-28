@@ -1,4 +1,5 @@
-objecs, objecs-function, objecs-methods, objecs-reference
-string-methods, number-methods
-arrays, Manipulating array with methods , looping over arrays
-seraching arrays, filtering arrays, sorting arrays
+ternary operator
+arrow functions
+callbacks
+promises
+async/await

@@ -21,8 +21,8 @@ const todos = [
   },
 ];
 
-const sortTodos = function (todos) {
-  todos.sort(function (a, b) {
+const sortTodos = (todos) => {
+  todos.sort((a, b) => {
     if (!a.completed && b.completed) {
       return -1;
     } else if (!b.completed && a.completed) {
@@ -33,8 +33,8 @@ const sortTodos = function (todos) {
   });
 };
 
-const deleteTodo = function (todos, todoText) {
-  const index = todos.findIndex(function (todo) {
+const deleteTodo = (todos, todoText) => {
+  const index = todos.findIndex((todo) => {
     return todo.text.toLowerCase() === todoText.toLowerCase();
   });
 
@@ -43,8 +43,8 @@ const deleteTodo = function (todos, todoText) {
   }
 };
 
-const getThingsToDo = function (todos) {
-  return todos.filter(function (todo) {
+const getThingsToDo = (todos) => {
+  return todos.filter((todo) => {
     return !todo.completed;
   });
 };
