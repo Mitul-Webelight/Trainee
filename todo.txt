@@ -1,5 +1,5 @@
-ternary operator
+var, let, const
 arrow functions
-callbacks
-promises
-async/await
+array methods
+object methos(key, value, entries)
+spread-oprator, desructuring
