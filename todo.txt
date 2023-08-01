@@ -1,5 +1,4 @@
-var, let, const
-arrow functions
-array methods
-object methos(key, value, entries)
-spread-oprator, desructuring
+loops(need more prac in loop logic)
+difference in ternary oprator and if...else loop
+object method(create, assign ...)
+refer all thing that I do in past
