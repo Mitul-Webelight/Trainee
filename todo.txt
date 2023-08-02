@@ -1,4 +1,3 @@
-loops(need more prac in loop logic)
-difference in ternary oprator and if...else loop
-object method(create, assign ...)
-refer all thing that I do in past
+if...in and if...of loop
+Do Practice on loop logic
+Do example of diiferent loops
