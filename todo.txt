@@ -1,3 +1,2 @@
-if...in and if...of loop
-Do Practice on loop logic
-Do example of diiferent loops
+loops Practice
+promises Practice
