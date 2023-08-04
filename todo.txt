@@ -1,2 +1,4 @@
-loops Practice
-promises Practice
+OOP Constructor Function
+Prototypes
+Class syntax and subclasses
+Getter and Setter
