@@ -1,4 +1,5 @@
-OOP Constructor Function
-Prototypes
-Class syntax and subclasses
-Getter and Setter
+HTTP requests
+HTTP APIs, headers and errors
+callback absraction
+Asyncronus and Syncronus abstraction
+overview about Axios
